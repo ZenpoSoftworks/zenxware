@@ -8,8 +8,7 @@ local zenxware = "https://raw.githubusercontent.com/ZenpoSoftworks/zenxware/main
 
 local games = {
     [10598963932] = "catpiece.lua",
-    [12364861304] = "catpiece.lua",
-    [10358162137] = "weaklegacy.lua"
+    [12364861304] = "catpiece.lua"
 }
 
 for i, v in pairs(games) do
