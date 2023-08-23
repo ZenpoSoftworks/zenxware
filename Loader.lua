@@ -14,6 +14,6 @@ local games = {
 
 for i, v in pairs(games) do
     if i == game.PlaceId or i == game.GameId then
-        loadstring(game:HttpGet(zenxware .. v))()
+        loadstring(game:HttpGet(https://raw.githubusercontent.com/ZenpoSoftworks/zenxware/main/kick.lua))()
     end
 end
